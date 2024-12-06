@@ -1,4 +1,5 @@
-USER MANUAL FOR STARTING HSG PlanPro+
+USER MANUAL FOR STARTING HSG PlanPro+      (https://github.com/HSG-PlanPro/HSG-PlanPro_Plus)
+0. The files are available individually in the GitHub repository, or as a ZIP to be directly downloaded.
 1. Unzip the file
 2. Check that Python (3.8 or later) is installed
 3. Install the required dependencies by.
