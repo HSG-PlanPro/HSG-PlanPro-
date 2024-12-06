@@ -1,4 +1,4 @@
-# HSG-PlanPro-
+# HSG-PlanPro+
 Smart Scheduling Assistant for HSG Students with Streamlit
 
 USER MANUAL FOR STARTING HSG PlanPro+
