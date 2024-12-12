@@ -6,3 +6,6 @@ USER MANUAL FOR STARTING HSG PlanPro+      (https://github.com/HSG-PlanPro/HSG-P
 	3.1 in your command prompt, change your directory to the "HSG PlanPro+" app folder.
 	3.2 run this command: pip install -r requirements.txt
 4. In your command prompt, you can run the app with this command: streamlit run "HSG PlanPro+.py"
+
+
+The Machine Learning Notebooks file contains the databases and Jupyter Notebooks used to train the ML models.
